@@ -1,0 +1,40 @@
+PLAY TITLES AND ABBREVIATIONS
+PLAY ABBREVIATION Act, Scene, and Line
+All's Well That Ends Well	AW
+Antony and Cleopatra	A&C
+As You Like It	AYL
+The Comedy of Errors	COM
+Coriolanus	COR
+Cymbeline	CYM
+Hamlet	HML
+Henry IV Part One	1HIV
+Henry IV Part Two	2HIV
+Henry V	HV
+Henry VI Part One	1HVI
+Henry VI Part Two	2HVI
+Henry VI Part Three	3HVI
+Henry VIII	HVIII
+Julius Caesar	JC
+King John	KJ
+King Lear	LEAR
+Love's Labor's Lost	LLL
+Macbeth	MAC
+Measure for Measure	MEAS
+The Merchant of Venice	MVEN
+The Merry Wives of Windsor	MW
+A Midsummer Night's Dream	MID
+Much Ado About Nothing	MADO
+Othello	OTH
+Pericles	PER
+Richard II	RII
+Richard III	RIll
+Romeo and Juliet	R&J
+The Taming of the Shrew	SHREW
+The Tempest	TEMP
+Timon of Athens	TIMON
+Titus Andronicus	TITUS
+Troilus and Cressida	T&C
+Twelfth Night	12th
+The Two Gentlemen of Verona	2GEN
+The Two Noble Kinsmen	2NOB
+The Winter's Tale	WT

@@ -1,0 +1,69 @@
+VOWELS
+EE	as in be, see, tea
+I	as in bit, hid, pin
+EH	as in bet, head, let
+AA	as in bat, fan, tackle
+O	as in boot, ooze, zoo
+U	as in book, foot, put
+AW	as in bought, saw, dawn
+AH	as in father, calm, spa
+ER	as in bird, fur, learn
+E(r)	as in averring, whirring
+UH	as in cup, but, glove
+
+UNSTRESSED VOWELS
+er	as in better, modern
+uh	as in focus, ago, famous
+
+SYLLABICS
+(uh)	as in mettle, roundel, batten
+
+DIPHTHONGS AND TRIPHTHONGS
+AY	as in bay, take, say
+EYE	as in bite, high, time
+OY	as in boy, avoid, voice
+OH	as in boat, go, sew
+OW	as in how, town, out
+YO	as in duke, new, tune
+EER	as in beer, hear, fear
+AIR	as in bear, hair, fare
+UR	as in tour, sure, poor
+AWR	as in bore, four, score
+AHR	as in bar, card, part
+EYER	as in sire, hire, fire
+OWR	as in hour, scour, sour
+
+CONSONANTS
+P	as in pat, puppy, cap
+B	as in bowl, rubbish, cab
+T	as in top, better, cat
+D	as in dip, moody, had
+K	as in car, actor, pick
+G	as in go, agree, hug
+M	as in met, comma, aim
+N	as in no, penny, chain
+NG	as in king, hang, banquet
+L	as in low, salad, bell
+R	as in red, ran, arrive
+Y	as in yet, uniform, use
+W	as in we, word, away
+H	as in have, hid, help
+HW	as in what, where, wheat
+S	as in soon, ask, toss
+Z	as in zoo, busy, jazz
+F	as in far, affirm, graph
+V	as in vine, even, save
+SH	as in ship, nation, cash
+ZH	as in vision, casual, beige
+TH	as in thirty, nothing, path
+T	as in then, other, breathe
+CH	as in child, future, watch
+J	as in just, fragile, ridge
+
+NOTES ON SYLLABLES AND STRESS
+A hyphen ( - ) separates the syllables.
+A syllable printed in BOLD CAPITAL LETTERS has the primary stress.
+A syllable in CAPITAL LETTERS has the secondary stress.
+All other syllables are in lower case letters.
+Unstressed vowels are always in lower case letters.
+Example: AY-dree-AH-nuh

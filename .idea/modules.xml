@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/nestednav.iml" filepath="$PROJECT_DIR$/nestednav.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/nestednav_android.iml" filepath="$PROJECT_DIR$/android/nestednav_android.iml" />
+    </modules>
+  </component>
+</project>

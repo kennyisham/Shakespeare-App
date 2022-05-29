@@ -1,0 +1,89 @@
+        <h2>VOWELS</h2>
+        <table  style="width:100%;" cellpadding="0" cellspacing="0">
+            
+            <tr><td style="width:20%">EE</td> <td>as in be, see, tea</td></tr>
+            <tr><td>I</td> <td>as in bit, hid, pin</td></tr>
+            <tr><td>EH </td> <td>as in bet, head, let</td></tr>
+            <tr><td>AA</td> <td>as in bat, fan, tackle</td></tr>
+            <tr><td><span>O</span></td> <td>as in boot, ooze, zoo</td></tr>
+            <tr><td><span>U</span> 	</td> <td>as in book, foot, put</td></tr>
+            <tr><td>AW	</td> <td>as in bought, saw, dawn</td></tr>
+            <tr><td>AH </td> <td>as in father, calm, spa</td></tr>
+            <tr><td>ER 	</td> <td>as in bird, fur, learn</td></tr>
+            <tr><td>E(r)</td> <td>as in averring, whirring</td></tr>
+            <tr><td>UH</td> <td>as in cup, but, glove</td></tr>
+        </table>
+        
+        <br>
+        <h2>UNSTRESSED VOWELS</h2>
+        <table  style="width:100%;" cellpadding="0" cellspacing="0">
+            <tr><td style="width:20%">er</td> <td>as in bett<i>er</i>, mod<i>er</i>n</td></tr>
+            <tr><td>uh</td> <td>as in foc<i>u</i>s, <i>a</i>go, fam<i>ou</i>s</td></tr>
+        </table>
+        
+        <br>
+        <h2>SYLLABICS</h2>
+        <table  style="width:100%;" cellpadding="0" cellspacing="0">
+            <tr><td style="width:20%">(uh) </td> <td>as in mett<i>le</i>, round<i>el</i>, batt<i>en</i></td></tr>
+        </table>
+        
+        <br>
+        <h2>DIPHTHONGS AND TRIPHTHONGS</h2>
+        <table  style="width:100%;" cellpadding="0" cellspacing="0">
+            <tr><td style="width:20%">AY</td> <td>as in bay, take, say</td></tr>
+            <tr><td>EYE </td> <td>as in bite, high, time</td></tr>
+            <tr><td>OY </td> <td>as in boy, avoid, voice</td></tr>
+            <tr><td>OH </td> <td>as in boat, go, sew</td></tr>
+            <tr><td>OW </td> <td>as in how, town, out</td></tr>
+            <tr><td>Y<span>O</span> </td> <td>as in duke, new, tune</td></tr>
+            <tr><td>EER </td> <td>as in beer, hear, fear</td></tr>
+            <tr><td>AIR </td> <td>as in bear, hair, fare</td></tr>
+            <tr><td><span>U</span>R </td> <td>as in tour, sure, poor</td></tr>
+            <tr><td>AWR </td> <td>as in bore, four, score</td></tr>
+            <tr><td>AHR </td> <td>as in bar, card, part</td></tr>
+            <tr><td>EYER </td> <td>as in sire, hire, fire</td></tr>
+            <tr><td>OWR </td> <td>as in hour, scour, sour</td></tr>
+        </table>
+        
+        <br>
+        <h2>CONSONANTS</h2>
+        <table  style="width:100%;" cellpadding="0" cellspacing="0">
+            <tr><td style="width:20%">P</td> <td>as in pat, puppy, cap</td></tr>
+            <tr><td>B </td> <td>as in bowl, rubbish, cab</td></tr>
+            <tr><td>T </td> <td>as in top, better, cat</td></tr>
+            <tr><td>D </td> <td>as in dip, moody, had</td></tr>
+            <tr><td>K </td> <td>as in car, actor, pick</td></tr>
+            <tr><td>G</td> <td>as in go, agree, hug</td></tr>
+            <tr><td>M </td> <td>as in met, comma, aim</td></tr>
+            <tr><td>N </td> <td>as in no, penny, chain</td></tr>
+            <tr><td>NG</td> <td>as in king, hang, banquet</td></tr>
+            <tr><td>L </td> <td>as in low, salad, bell</td></tr>
+            <tr><td>R</td> <td>as in red, ran, arrive</td></tr>
+            <tr><td>Y</td> <td>as in yet, uniform, use</td></tr>
+            <tr><td>W </td> <td>as in we, word, away</td></tr>
+            <tr><td>H </td> <td>as in have, hid, help</td></tr>
+            <tr><td>HW</td> <td>as in what, where, wheat</td></tr>
+            <tr><td>S </td> <td>as in soon, ask, toss</td></tr>
+            <tr><td>Z</td> <td>as in zoo, busy, jazz</td></tr>
+            <tr><td>F  </td> <td>as in far, affirm, graph</td></tr>
+            <tr><td>V  </td> <td>as in vine, even, save</td></tr>
+            <tr><td>SH  </td> <td>as in ship, nation, cash</td></tr>
+            <tr><td>ZH</td> <td>as in vision, casual, beige</td></tr>
+            <tr><td>TH </td> <td>as in thirty, nothing, path</td></tr>
+            <tr><td><span>T</span></td> <td>as in then, other, breathe</td></tr>
+            <tr><td>CH </td> <td>as in child, future, watch</td></tr>
+            <tr><td>J </td> <td>as in just, fragile, ridge</td></tr>
+        </table>
+        
+        <br>
+        <h2>NOTES ON SYLLABLES AND STRESS</h2>
+        <div >
+            <ul><li>A hyphen ( - ) separates the syllables.</li></ul>
+            <ul><li>A syllable printed in <b>BOLD CAPITAL LETTERS</b> has the primary stress.</li></ul>
+            <ul><li>A syllable in CAPITAL LETTERS has the secondary stress.</li></ul>
+            <ul><li>All other syllables are in lower case letters.</li></ul>
+            <ul><li>Unstressed vowels are always in lower case letters.</li></ul>
+        </div>
+        <div style="margin-left:40px;">
+            Example: AY-dree-<b>AH</b>-nuh
+        </div>
